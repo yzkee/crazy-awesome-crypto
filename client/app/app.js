@@ -35,7 +35,7 @@ $(document).ready( function () {
 
     var initialSearchTerm = getUrlQuery();
 
-    // Github orgainisation table
+    // Github organisation table
     $("#org-table").DataTable( {
         ajax: {
             url: ajax_url_orgs,
@@ -117,7 +117,7 @@ $(document).ready( function () {
           },
         ],
     });
-    // End Github orgainisation table
+    // End Github organisation table
 
     // Github repository table
     var description_max_strlen = 180;
