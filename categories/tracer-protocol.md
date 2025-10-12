@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 2 [tracer-protocol](https://github.com/tracer-protocol) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -8,19 +8,19 @@ Checkout the interactive version that you can filter and sort:
 ### [tracer-dao](https://github.com/tracer-protocol/tracer-dao) by [tracer-protocol](https://github.com/tracer-protocol)  
   
 [https://github.com/tracer-protocol/tracer-dao](https://github.com/tracer-protocol/tracer-dao)  
-0.07 stars per week over 157 weeks  
-11 stars, 4 forks, 2 watches  
+0.05 stars per week over 242 weeks  
+11 stars, 4 forks, 1 watches  
 created 2021-02-17, last commit 2021-04-01, main language Solidity  
 
 
 ### [perpetual-contracts](https://github.com/tracer-protocol/perpetual-contracts) by [tracer-protocol](https://github.com/tracer-protocol)  
 Smart contracts for the Tracer perpetual swaps protocol  
 [https://github.com/tracer-protocol/perpetual-contracts](https://github.com/tracer-protocol/perpetual-contracts)  
-0.07 stars per week over 154 weeks  
-11 stars, 0 forks, 1 watches  
+0.05 stars per week over 240 weeks  
+11 stars, 0 forks, 0 watches  
 created 2021-03-07, last commit 2021-10-20, main language JavaScript  
 
 
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 10 [0xcert](https://github.com/0xcert) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 0xcert Framework - JavaScript framework for building decentralized applications - build something unique  
 [https://github.com/0xcert/docs](https://github.com/0xcert/docs)  
 [https://github.com/0xcert/framework](https://github.com/0xcert/framework)  
-1.18 stars per week over 287 weeks  
-340 stars, 74 forks, 25 watches  
+0.92 stars per week over 373 weeks  
+344 stars, 65 forks, 23 watches  
 created 2018-08-18, last commit 2021-12-07, main language TypeScript  
 <sub><sup>0xcert, asset, blockchain, currency, erc-20, erc-721, ethereum, framework, fungible, hacktoberfest, javascript, nodejs, non-fungible, npm, nuxtjs, protocol, smart-contract, token, typescript, vuejs</sup></sub>
 
@@ -19,8 +19,8 @@ created 2018-08-18, last commit 2021-12-07, main language TypeScript
 Fungible token implementation for the Ethereum blockchain.  
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-erc20](https://github.com/0xcert/ethereum-erc20)  
-0.1 stars per week over 298 weeks  
-29 stars, 29 forks, 8 watches  
+0.07 stars per week over 383 weeks  
+28 stars, 27 forks, 6 watches  
 created 2018-06-04, last commit 2018-08-28, main language JavaScript  
 <sub><sup>blockchain, contract, contracts, eip, erc, erc-20, erc20, eth, ethereum, fungability, fungible, smart, smart-contract, smart-contracts, standard, token, tokens</sup></sub>
 
@@ -29,8 +29,8 @@ created 2018-06-04, last commit 2018-08-28, main language JavaScript
 0xcert protocol peper.  
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/techpaper](https://github.com/0xcert/techpaper)  
-0.06 stars per week over 314 weeks  
-20 stars, 3 forks, 10 watches  
+0.05 stars per week over 399 weeks  
+20 stars, 3 forks, 8 watches  
 created 2018-02-14, last commit 2019-11-15, main language CSS  
 <sub><sup>0xcert, paper, protocol, technical, whitepaper, yellowpaper</sup></sub>
 
@@ -39,70 +39,70 @@ created 2018-02-14, last commit 2019-11-15, main language CSS
 Xcert token implementation for the Ethereum blockchain.   
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-xcert](https://github.com/0xcert/ethereum-xcert)  
-0.07 stars per week over 302 weeks  
-20 stars, 7 forks, 8 watches  
+0.05 stars per week over 387 weeks  
+20 stars, 7 forks, 6 watches  
 created 2018-05-09, last commit 2018-08-08, main language JavaScript  
 <sub><sup>certificate, certification, certified, contract, contracts, erc721, eth, ethereum, implementation, smart, smart-contracts, standard, token, tokens, xcert</sup></sub>
+
+
+### [solidity-style-guide](https://github.com/0xcert/solidity-style-guide) by [0xcert](https://github.com/0xcert)  
+Solidity style guide  
+[https://github.com/0xcert/solidity-style-guide](https://github.com/0xcert/solidity-style-guide)  
+0.05 stars per week over 353 weeks  
+19 stars, 5 forks, 4 watches  
+created 2019-01-06, last commit 2019-02-01, main language None  
+<sub><sup>ethereum, smart-contract, solidity, styleguide</sup></sub>
 
 
 ### [ethereum-dex](https://github.com/0xcert/ethereum-dex) by [0xcert](https://github.com/0xcert)  
 Decentralized exchange implementation for the 0xcert protocol on the Ethereum blockchain.   
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-dex](https://github.com/0xcert/ethereum-dex)  
-0.06 stars per week over 299 weeks  
-18 stars, 13 forks, 5 watches  
+0.05 stars per week over 384 weeks  
+18 stars, 13 forks, 3 watches  
 created 2018-05-31, last commit 2018-08-01, main language JavaScript  
 <sub><sup>atomic, blockchain, contract, decentralization, decentralized, erc-721, erc721, eth, ethereum, exchange, nft, non-fungible, smart, smart-contract, smart-contracts, standard, token, tokens, transactions, xcert</sup></sub>
-
-
-### [solidity-style-guide](https://github.com/0xcert/solidity-style-guide) by [0xcert](https://github.com/0xcert)  
-Solidity style guide  
-[https://github.com/0xcert/solidity-style-guide](https://github.com/0xcert/solidity-style-guide)  
-0.06 stars per week over 267 weeks  
-17 stars, 5 forks, 5 watches  
-created 2019-01-06, last commit 2019-02-01, main language None  
-<sub><sup>ethereum, smart-contract, solidity, styleguide</sup></sub>
-
-
-### [ethereum](https://github.com/0xcert/ethereum) by [0xcert](https://github.com/0xcert)  
-0xcert protocol implementation for Ethereum blockchain.  
-[https://0xcert.org](https://0xcert.org)  
-[https://github.com/0xcert/ethereum](https://github.com/0xcert/ethereum)  
-0.05 stars per week over 314 weeks  
-16 stars, 5 forks, 8 watches  
-created 2018-02-14, last commit 2018-05-08, main language JavaScript  
-<sub><sup>0xcert, contract, contracts, erc721, eth, ethereum, non-fungible, protocol, smart, smart-contract, smart-contracts, token, tokens, xcert, xct</sup></sub>
 
 
 ### [ethereum-crowdsale](https://github.com/0xcert/ethereum-crowdsale) by [0xcert](https://github.com/0xcert)  
 0xcert protocol crowdsale contracts for Ethereum blockchain.  
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-crowdsale](https://github.com/0xcert/ethereum-crowdsale)  
-0.05 stars per week over 298 weeks  
-15 stars, 6 forks, 6 watches  
+0.04 stars per week over 383 weeks  
+16 stars, 6 forks, 4 watches  
 created 2018-06-07, last commit 2018-07-20, main language JavaScript  
 <sub><sup>0xcert, blockchain, contract, contracts, crowdsale, erc, erc-20, erc20, eth, ethereum, ico, protocol, smart, smart-contract, smart-contracts, token, tokens, zxc</sup></sub>
+
+
+### [ethereum](https://github.com/0xcert/ethereum) by [0xcert](https://github.com/0xcert)  
+0xcert protocol implementation for Ethereum blockchain.  
+[https://0xcert.org](https://0xcert.org)  
+[https://github.com/0xcert/ethereum](https://github.com/0xcert/ethereum)  
+0.04 stars per week over 399 weeks  
+16 stars, 5 forks, 6 watches  
+created 2018-02-14, last commit 2018-05-08, main language JavaScript  
+<sub><sup>0xcert, contract, contracts, erc721, eth, ethereum, non-fungible, protocol, smart, smart-contract, smart-contracts, token, tokens, xcert, xct</sup></sub>
+
+
+### [docs](https://github.com/0xcert/docs) by [0xcert](https://github.com/0xcert)  
+0xcert documentation  
+[https://github.com/0xcert/docs](https://github.com/0xcert/docs)  
+0.05 stars per week over 300 weeks  
+14 stars, 15 forks, 5 watches  
+created 2020-01-07, last commit 2021-03-02, main language Stylus  
+<sub><sup>0xcert, api, blockchain, documentation, ethereum, framework, nft, open-source, wanchain</sup></sub>
 
 
 ### [ethereum-zxc](https://github.com/0xcert/ethereum-zxc) by [0xcert](https://github.com/0xcert)  
 0xcert protocol token implementation for the Ethereum blockchain.  
 [https://0xcert.org](https://0xcert.org)  
 [https://github.com/0xcert/ethereum-zxc](https://github.com/0xcert/ethereum-zxc)  
-0.04 stars per week over 298 weeks  
-13 stars, 3 forks, 6 watches  
+0.03 stars per week over 383 weeks  
+13 stars, 3 forks, 4 watches  
 created 2018-06-04, last commit 2018-06-26, main language JavaScript  
 <sub><sup>0xcert, blockchain, contract, contracts, eip, erc, erc-20, erc20, eth, ethereum, fungability, fungible, protocol, smart, smart-contract, smart-contracts, standard, token, tokens, zxc</sup></sub>
 
 
-### [docs](https://github.com/0xcert/docs) by [0xcert](https://github.com/0xcert)  
-0xcert documentation  
-[https://github.com/0xcert/docs](https://github.com/0xcert/docs)  
-0.06 stars per week over 215 weeks  
-13 stars, 15 forks, 7 watches  
-created 2020-01-07, last commit 2021-03-02, main language Stylus  
-<sub><sup>0xcert, api, blockchain, documentation, ethereum, framework, nft, open-source, wanchain</sup></sub>
-
-
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

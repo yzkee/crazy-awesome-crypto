@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 2 [paulrberg](https://github.com/paulrberg) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Create Ethereum-powered apps with one command  
 [https://www.npmjs.com/package/create-eth-app](https://www.npmjs.com/package/create-eth-app)  
 [https://github.com/paulrberg/create-eth-app](https://github.com/paulrberg/create-eth-app)  
-12 stars per week over 214 weeks  
-2,640 stars, 502 forks, 60 watches  
+9.23 stars per week over 299 weeks  
+2,767 stars, 505 forks, 57 watches  
 created 2020-01-13, last commit 2023-12-24, main language JavaScript  
 <sub><sup>create-react-app, ethereum, graphql, react, the-graph, yarn, yarn-workspaces</sup></sub>
 
@@ -18,12 +18,12 @@ created 2020-01-13, last commit 2023-12-24, main language JavaScript
 ### [hardhat-template](https://github.com/paulrberg/solidity-template) by [paulrberg](https://github.com/paulrberg)  
 Hardhat-based template for developing Solidity smart contracts  
 [https://github.com/paulrberg/solidity-template](https://github.com/paulrberg/solidity-template)  
-10 stars per week over 189 weeks  
-1,897 stars, 578 forks, 34 watches  
-created 2020-07-06, last commit 2024-01-19, main language TypeScript  
+7.19 stars per week over 274 weeks  
+1,975 stars, 572 forks, 32 watches  
+created 2020-07-06, last commit 2025-03-25, main language TypeScript  
 <sub><sup>blockchain, ethereum, ethers, hardhat, smart-contracts, solidity, template, typechain, typescript</sup></sub>
 
 
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

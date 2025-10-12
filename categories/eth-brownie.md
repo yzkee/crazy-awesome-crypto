@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 1 [eth-brownie](https://github.com/eth-brownie) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.  
 [https://eth-brownie.readthedocs.io](https://eth-brownie.readthedocs.io)  
 [https://github.com/eth-brownie/brownie](https://github.com/eth-brownie/brownie)  
-9.29 stars per week over 277 weeks  
-2,572 stars, 564 forks, 48 watches  
-created 2018-11-02, last commit 2024-02-19, main language Python  
+7.51 stars per week over 362 weeks  
+2,720 stars, 586 forks, 43 watches  
+created 2018-11-02, last commit 2025-10-11, main language C  
 <sub><sup>ethereum, solidity, vyper, web3py</sup></sub>
 
 
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

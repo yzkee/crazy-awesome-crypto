@@ -1,7 +1,6 @@
 import http.server
 import socketserver
 import time
-from loguru import logger
 
 PORT = 8004
 DIRECTORY = "app"
@@ -13,7 +12,7 @@ class CustomHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
         super().__init__(*args, directory=DIRECTORY, **kwargs)
 
     def do_GET(self):
-        logger.trace(f"GET: {self.path=}")
+        # print(f"GET: {self.path=}")
         if self.path == "/":
             self.path = DEFAULT_PAGE
         if "/?" in self.path:
@@ -22,7 +21,7 @@ class CustomHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
 
 
 with socketserver.TCPServer(("", PORT), CustomHttpRequestHandler) as httpd:
-    logger.info(f"Custom http.server on port {PORT} from dir {DIRECTORY} with default page {DEFAULT_PAGE}. "
+    print(f"Custom http.server on port {PORT} from dir {DIRECTORY} with default page {DEFAULT_PAGE}. "
                 f"Press CTRL+C to close the server.")
     try:
         httpd.serve_forever()
@@ -30,4 +29,4 @@ with socketserver.TCPServer(("", PORT), CustomHttpRequestHandler) as httpd:
         httpd.shutdown()
         httpd.server_close()
         time.sleep(1)
-        logger.info(f"Server on port {PORT} closed.")
+        print(f"Server on port {PORT} closed.")

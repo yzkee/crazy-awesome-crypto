@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 9 [PolymathNetwork](https://github.com/PolymathNetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Core Ethereum Smart Contracts for Polymath - The Securities Token Platform  
 [http://polymath.network](http://polymath.network)  
 [https://github.com/PolymathNetwork/polymath-core](https://github.com/PolymathNetwork/polymath-core)  
-1.06 stars per week over 311 weeks  
-330 stars, 160 forks, 71 watches  
+0.84 stars per week over 396 weeks  
+333 stars, 152 forks, 66 watches  
 created 2018-03-06, last commit 2022-05-26, main language JavaScript  
 <sub><sup>ethereum, securities, st-20</sup></sub>
 
@@ -18,32 +18,32 @@ created 2018-03-06, last commit 2022-05-26, main language JavaScript
 ### [polymath-token](https://github.com/PolymathNetwork/polymath-token) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Ethereum contracts for the official Polymath token (POLY) and token distribution  
 [https://github.com/PolymathNetwork/polymath-token](https://github.com/PolymathNetwork/polymath-token)  
-0.31 stars per week over 321 weeks  
-98 stars, 50 forks, 53 watches  
+0.25 stars per week over 406 weeks  
+100 stars, 46 forks, 50 watches  
 created 2017-12-27, last commit 2018-01-31, main language JavaScript  
 
 
 ### [polymath-core-deprecated](https://github.com/PolymathNetwork/polymath-core-deprecated) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Core Ethereum Smart Contracts for Polymath - The Securities Token Platform  
 [https://github.com/PolymathNetwork/polymath-core-deprecated](https://github.com/PolymathNetwork/polymath-core-deprecated)  
-0.2 stars per week over 322 weeks  
-65 stars, 19 forks, 46 watches  
+0.16 stars per week over 407 weeks  
+65 stars, 14 forks, 42 watches  
 created 2017-12-18, last commit 2018-04-06, main language JavaScript  
 
 
 ### [polymath.js-deprecated](https://github.com/PolymathNetwork/polymath.js-deprecated) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Core library/API/Node module for accessing chain code.  
 [https://github.com/PolymathNetwork/polymath.js-deprecated](https://github.com/PolymathNetwork/polymath.js-deprecated)  
-0.08 stars per week over 325 weeks  
-26 stars, 9 forks, 38 watches  
+0.06 stars per week over 410 weeks  
+26 stars, 9 forks, 34 watches  
 created 2017-11-29, last commit 2018-02-23, main language JavaScript  
 
 
 ### [polymath-issuer](https://github.com/PolymathNetwork/polymath-issuer) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Security Token Issuer + STO Launcher  
 [https://github.com/PolymathNetwork/polymath-issuer](https://github.com/PolymathNetwork/polymath-issuer)  
-0.06 stars per week over 310 weeks  
-20 stars, 19 forks, 16 watches  
+0.05 stars per week over 395 weeks  
+20 stars, 19 forks, 14 watches  
 created 2018-03-13, last commit 2018-10-17, main language JavaScript  
 
 
@@ -51,36 +51,36 @@ created 2018-03-13, last commit 2018-10-17, main language JavaScript
 Monorepo containing Polymath's Apps  
 [https://tokenstudio.polymath.network](https://tokenstudio.polymath.network)  
 [https://github.com/PolymathNetwork/polymath-apps](https://github.com/PolymathNetwork/polymath-apps)  
-0.05 stars per week over 283 weeks  
-15 stars, 16 forks, 35 watches  
+0.04 stars per week over 368 weeks  
+14 stars, 16 forks, 28 watches  
 created 2018-09-17, last commit 2021-03-29, main language JavaScript  
 
 
 ### [polymath-allocator](https://github.com/PolymathNetwork/polymath-allocator) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Allocation and airdrop scripts for the Polymath token distribution  
 [https://github.com/PolymathNetwork/polymath-allocator](https://github.com/PolymathNetwork/polymath-allocator)  
-0.04 stars per week over 318 weeks  
-14 stars, 11 forks, 38 watches  
+0.03 stars per week over 403 weeks  
+14 stars, 11 forks, 34 watches  
 created 2018-01-18, last commit 2018-01-31, main language JavaScript  
-
-
-### [polymath.js](https://github.com/PolymathNetwork/polymath.js) by [PolymathNetwork](https://github.com/PolymathNetwork)  
-  
-[https://github.com/PolymathNetwork/polymath.js](https://github.com/PolymathNetwork/polymath.js)  
-0.03 stars per week over 311 weeks  
-10 stars, 6 forks, 10 watches  
-created 2018-03-09, last commit 2018-08-28, main language JavaScript  
 
 
 ### [token-faucet](https://github.com/PolymathNetwork/token-faucet) by [PolymathNetwork](https://github.com/PolymathNetwork)  
 Token Faucet for Ropsten POLY  
 [https://github.com/PolymathNetwork/token-faucet](https://github.com/PolymathNetwork/token-faucet)  
-0.03 stars per week over 331 weeks  
-10 stars, 9 forks, 5 watches  
+0.03 stars per week over 416 weeks  
+11 stars, 7 forks, 3 watches  
 created 2017-10-19, last commit 2018-01-29, main language JavaScript  
 <sub><sup>erc20, ethereum, solidity, truffle</sup></sub>
 
 
-This file was automatically generated on 2024-02-23.  
+### [polymath.js](https://github.com/PolymathNetwork/polymath.js) by [PolymathNetwork](https://github.com/PolymathNetwork)  
+  
+[https://github.com/PolymathNetwork/polymath.js](https://github.com/PolymathNetwork/polymath.js)  
+0.03 stars per week over 396 weeks  
+10 stars, 6 forks, 8 watches  
+created 2018-03-09, last commit 2018-08-28, main language JavaScript  
+
+
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

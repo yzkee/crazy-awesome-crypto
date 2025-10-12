@@ -1,80 +1,97 @@
-# Crazy Awesome Crypto
-A list of 14 [orbs-network](https://github.com/orbs-network) project repos ordered by stars.  
+# Awesome Crypto
+A list of 20 [orbs-network](https://github.com/orbs-network) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
 
-### [go-scaffold](https://github.com/orbs-network/go-scaffold) by [orbs-network](https://github.com/orbs-network)  
-Scaffold starter project in Go for a micro services based server with thorough testing  
-[https://github.com/orbs-network/go-scaffold](https://github.com/orbs-network/go-scaffold)  
-0.33 stars per week over 300 weeks  
-100 stars, 13 forks, 14 watches  
-created 2018-05-23, last commit 2019-03-26, main language Go  
+### [orbs-spec](https://github.com/orbs-network/orbs-spec) by [orbs-network](https://github.com/orbs-network)  
+Orbs platform protocol and service specifications, network architecture, etc  
+[https://github.com/orbs-network/orbs-spec](https://github.com/orbs-network/orbs-spec)  
+0.84 stars per week over 388 weeks  
+326 stars, 5 forks, 12 watches  
+created 2018-05-01, last commit 2022-03-24, main language Go  
 
 
 ### [orbs-network-go](https://github.com/orbs-network/orbs-network-go) by [orbs-network](https://github.com/orbs-network)  
 Orbs node virtual chain core reference implementation in Go  
 [https://github.com/orbs-network/orbs-network-go](https://github.com/orbs-network/orbs-network-go)  
-0.16 stars per week over 295 weeks  
-46 stars, 13 forks, 10 watches  
+0.81 stars per week over 381 weeks  
+310 stars, 11 forks, 11 watches  
 created 2018-06-24, last commit 2022-09-23, main language Go  
 
 
-### [lean-helix-go](https://github.com/orbs-network/lean-helix-go) by [orbs-network](https://github.com/orbs-network)  
-Go implementation of the Lean Helix Byzantine fault tolerant consensus algorithm  
-[https://github.com/orbs-network/lean-helix-go](https://github.com/orbs-network/lean-helix-go)  
-0.13 stars per week over 288 weeks  
-37 stars, 0 forks, 14 watches  
-created 2018-08-12, last commit 2020-12-06, main language Go  
+### [ton-access](https://github.com/orbs-network/ton-access) by [orbs-network](https://github.com/orbs-network)  
+Unthrottled anonymous RPC access to TON blockchain via a robust decentralized network  
+[https://github.com/orbs-network/ton-access](https://github.com/orbs-network/ton-access)  
+0.69 stars per week over 162 weeks  
+113 stars, 18 forks, 9 watches  
+created 2022-08-29, last commit 2023-03-29, main language TypeScript  
+
+
+### [go-scaffold](https://github.com/orbs-network/go-scaffold) by [orbs-network](https://github.com/orbs-network)  
+Scaffold starter project in Go for a micro services based server with thorough testing  
+[https://github.com/orbs-network/go-scaffold](https://github.com/orbs-network/go-scaffold)  
+0.25 stars per week over 385 weeks  
+98 stars, 13 forks, 12 watches  
+created 2018-05-23, last commit 2019-03-26, main language Go  
 
 
 ### [ton-vote](https://github.com/orbs-network/ton-vote) by [orbs-network](https://github.com/orbs-network)  
 Open source React frontend for ton.vote website - Decentralized DAO Governance for TON  
 [https://ton.vote](https://ton.vote)  
 [https://github.com/orbs-network/ton-vote](https://github.com/orbs-network/ton-vote)  
-0.64 stars per week over 56 weeks  
-36 stars, 9 forks, 6 watches  
-created 2023-01-26, last commit 2024-02-08, main language TypeScript  
+0.54 stars per week over 141 weeks  
+76 stars, 19 forks, 5 watches  
+created 2023-01-26, last commit 2025-08-09, main language TypeScript  
+
+
+### [lean-helix-go](https://github.com/orbs-network/lean-helix-go) by [orbs-network](https://github.com/orbs-network)  
+Go implementation of the Lean Helix Byzantine fault tolerant consensus algorithm  
+[https://github.com/orbs-network/lean-helix-go](https://github.com/orbs-network/lean-helix-go)  
+0.1 stars per week over 374 weeks  
+37 stars, 0 forks, 12 watches  
+created 2018-08-12, last commit 2020-12-06, main language Go  
 
 
 ### [dkg-on-evm](https://github.com/orbs-network/dkg-on-evm) by [orbs-network](https://github.com/orbs-network)  
 DKG for BLS threshold signature scheme on the EVM using solidity  
 [https://github.com/orbs-network/dkg-on-evm](https://github.com/orbs-network/dkg-on-evm)  
-0.11 stars per week over 291 weeks  
-32 stars, 4 forks, 9 watches  
+0.09 stars per week over 376 weeks  
+32 stars, 3 forks, 7 watches  
 created 2018-07-26, last commit 2018-08-05, main language JavaScript  
 
 
-### [ton-access](https://github.com/orbs-network/ton-access) by [orbs-network](https://github.com/orbs-network)  
-Unthrottled anonymous RPC access to TON blockchain via a robust decentralized network  
-[https://github.com/orbs-network/ton-access](https://github.com/orbs-network/ton-access)  
-0.4 stars per week over 77 weeks  
-31 stars, 1 forks, 6 watches  
-created 2022-08-29, last commit 2023-03-29, main language TypeScript  
+### [twap](https://github.com/orbs-network/twap) by [orbs-network](https://github.com/orbs-network)  
+Time-Weighted Average Price orders on any DEX  
+[https://github.com/orbs-network/twap](https://github.com/orbs-network/twap)  
+0.17 stars per week over 178 weeks  
+31 stars, 14 forks, 4 watches  
+created 2022-05-11, last commit 2025-09-21, main language Solidity  
+<sub><sup>amm, dex, ethereum, smart-contracts, solidity, trading</sup></sub>
 
 
 ### [membuffers](https://github.com/orbs-network/membuffers) by [orbs-network](https://github.com/orbs-network)  
 High performance memory efficient serialization library with direct wire access  
 [https://github.com/orbs-network/membuffers](https://github.com/orbs-network/membuffers)  
-0.1 stars per week over 295 weeks  
-29 stars, 3 forks, 13 watches  
+0.08 stars per week over 380 weeks  
+30 stars, 3 forks, 10 watches  
 created 2018-06-25, last commit 2019-11-13, main language Go  
 
 
-### [orbs-spec](https://github.com/orbs-network/orbs-spec) by [orbs-network](https://github.com/orbs-network)  
-Orbs platform protocol and service specifications, network architecture, etc  
-[https://github.com/orbs-network/orbs-spec](https://github.com/orbs-network/orbs-spec)  
-0.08 stars per week over 303 weeks  
-25 stars, 6 forks, 12 watches  
-created 2018-05-01, last commit 2022-03-24, main language Go  
+### [single-nominator](https://github.com/orbs-network/single-nominator) by [orbs-network](https://github.com/orbs-network)  
+Secure validation for TON blockchain via cold wallet  
+[https://github.com/orbs-network/single-nominator](https://github.com/orbs-network/single-nominator)  
+0.14 stars per week over 155 weeks  
+22 stars, 12 forks, 2 watches  
+created 2022-10-19, last commit 2024-12-15, main language TypeScript  
 
 
 ### [orbs-starter-kit](https://github.com/orbs-network/orbs-starter-kit) by [orbs-network](https://github.com/orbs-network)  
 The starting point for writing a new application on Orbs platform  
 [https://github.com/orbs-network/orbs-starter-kit](https://github.com/orbs-network/orbs-starter-kit)  
-0.07 stars per week over 246 weeks  
-18 stars, 9 forks, 3 watches  
+0.06 stars per week over 331 weeks  
+19 stars, 9 forks, 1 watches  
 created 2019-06-04, last commit 2019-12-30, main language JavaScript  
 <sub><sup>dapp, getting-started, smart-contracts, starter-kit, starter-template</sup></sub>
 
@@ -83,8 +100,8 @@ created 2019-06-04, last commit 2019-12-30, main language JavaScript
 SDK for developers of smart contracts running on Orbs  
 [https://orbs.gitbook.io](https://orbs.gitbook.io)  
 [https://github.com/orbs-network/orbs-contract-sdk](https://github.com/orbs-network/orbs-contract-sdk)  
-0.06 stars per week over 284 weeks  
-16 stars, 9 forks, 13 watches  
+0.05 stars per week over 369 weeks  
+17 stars, 9 forks, 11 watches  
 created 2018-09-13, last commit 2021-07-22, main language Go  
 <sub><sup>golang, sdk, smart-contract</sup></sub>
 
@@ -92,16 +109,25 @@ created 2018-09-13, last commit 2021-07-22, main language Go
 ### [govnr](https://github.com/orbs-network/govnr) by [orbs-network](https://github.com/orbs-network)  
 Golang library to launch supervised goroutines and log panics properly  
 [https://github.com/orbs-network/govnr](https://github.com/orbs-network/govnr)  
-0.06 stars per week over 239 weeks  
-14 stars, 0 forks, 9 watches  
+0.05 stars per week over 325 weeks  
+16 stars, 0 forks, 6 watches  
 created 2019-07-21, last commit 2019-11-14, main language Go  
+
+
+### [ton-vote-contracts](https://github.com/orbs-network/ton-vote-contracts) by [orbs-network](https://github.com/orbs-network)  
+TON blockchain smart contracts for ton.vote - Decentralized DAO Governance for TON  
+[https://ton.vote](https://ton.vote)  
+[https://github.com/orbs-network/ton-vote-contracts](https://github.com/orbs-network/ton-vote-contracts)  
+0.1 stars per week over 148 weeks  
+15 stars, 10 forks, 2 watches  
+created 2022-12-05, last commit 2023-06-18, main language TypeScript  
 
 
 ### [elliptic-curve-solidity](https://github.com/orbs-network/elliptic-curve-solidity) by [orbs-network](https://github.com/orbs-network)  
 Elliptic curve operations implemented in solidity  
 [https://github.com/orbs-network/elliptic-curve-solidity](https://github.com/orbs-network/elliptic-curve-solidity)  
-0.04 stars per week over 294 weeks  
-12 stars, 2 forks, 11 watches  
+0.03 stars per week over 380 weeks  
+13 stars, 3 forks, 9 watches  
 created 2018-07-01, last commit 2018-07-03, main language None  
 
 
@@ -109,19 +135,45 @@ created 2018-07-01, last commit 2018-07-03, main language None
 Personal Orbs blockchain that allows developers to easily test, run and deploy smart contracts  
 [https://orbs.gitbook.io](https://orbs.gitbook.io)  
 [https://github.com/orbs-network/gamma-cli](https://github.com/orbs-network/gamma-cli)  
-0.04 stars per week over 266 weeks  
-11 stars, 5 forks, 8 watches  
+0.03 stars per week over 351 weeks  
+12 stars, 5 forks, 6 watches  
 created 2019-01-14, last commit 2020-12-06, main language Go  
+
+
+### [orbs-staking-contract](https://github.com/orbs-network/orbs-staking-contract) by [orbs-network](https://github.com/orbs-network)  
+Orbs staking contract on EVM used for Orbs Proof-of-Stake  
+[https://github.com/orbs-network/orbs-staking-contract](https://github.com/orbs-network/orbs-staking-contract)  
+0.03 stars per week over 318 weeks  
+11 stars, 5 forks, 5 watches  
+created 2019-09-02, last commit 2022-09-23, main language JavaScript  
+
+
+### [decentralized-npm](https://github.com/orbs-network/decentralized-npm) by [orbs-network](https://github.com/orbs-network)  
+[App Demo] NPM registry on blockchain with Orbs  
+[https://github.com/orbs-network/decentralized-npm](https://github.com/orbs-network/decentralized-npm)  
+0.03 stars per week over 337 weeks  
+11 stars, 4 forks, 0 watches  
+created 2019-04-24, last commit 2019-06-19, main language JavaScript  
+<sub><sup>blockchain, cli, golang, js, npm, registry, smart-contracts</sup></sub>
 
 
 ### [orbs-network-typescript](https://github.com/orbs-network/orbs-network-typescript) by [orbs-network](https://github.com/orbs-network)  
 Orbs platform reference implementation in TypeScript  
 [https://github.com/orbs-network/orbs-network-typescript](https://github.com/orbs-network/orbs-network-typescript)  
-0.03 stars per week over 326 weeks  
-11 stars, 0 forks, 10 watches  
+0.03 stars per week over 411 weeks  
+11 stars, 0 forks, 8 watches  
 created 2017-11-22, last commit 2019-03-28, main language TypeScript  
 
 
-This file was automatically generated on 2024-02-23.  
+### [orbs-client-sdk-javascript](https://github.com/orbs-network/orbs-client-sdk-javascript) by [orbs-network](https://github.com/orbs-network)  
+SDK for implementing clients for Orbs network in JavaScript / TypeScript  
+[https://github.com/orbs-network/orbs-client-sdk-javascript](https://github.com/orbs-network/orbs-client-sdk-javascript)  
+0.03 stars per week over 382 weeks  
+11 stars, 2 forks, 8 watches  
+created 2018-06-14, last commit 2020-05-04, main language TypeScript  
+<sub><sup>blockchain, client-sdk, sdk</sup></sub>
+
+
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

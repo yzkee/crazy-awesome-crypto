@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 2 [EthTx](https://github.com/EthTx) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/EthTx/ethtx](https://github.com/EthTx/ethtx)  
-3.25 stars per week over 138 weeks  
-451 stars, 75 forks, 16 watches  
+2.05 stars per week over 223 weeks  
+458 stars, 76 forks, 13 watches  
 created 2021-06-28, last commit 2023-05-17, main language Python  
 
 
@@ -18,11 +18,11 @@ created 2021-06-28, last commit 2023-05-17, main language Python
 Ethereum transaction decoder (community version).  
 [https://ethtx.info](https://ethtx.info)  
 [https://github.com/EthTx/ethtx_ce](https://github.com/EthTx/ethtx_ce)  
-1.98 stars per week over 134 weeks  
-266 stars, 64 forks, 12 watches  
+1.22 stars per week over 219 weeks  
+269 stars, 64 forks, 10 watches  
 created 2021-07-26, last commit 2023-08-08, main language Python  
 
 
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

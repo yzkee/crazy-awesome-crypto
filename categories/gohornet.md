@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 1 [gohornet](https://github.com/gohornet) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -8,12 +8,12 @@ Checkout the interactive version that you can filter and sort:
 ### [hornet](https://github.com/gohornet/hornet) by [gohornet](https://github.com/gohornet)  
 HORNET is a powerful IOTA fullnode software  
 [https://github.com/gohornet/hornet](https://github.com/gohornet/hornet)  
-1.37 stars per week over 220 weeks  
-302 stars, 151 forks, 25 watches  
-created 2019-12-04, last commit 2023-10-18, main language Go  
+1.02 stars per week over 305 weeks  
+313 stars, 159 forks, 23 watches  
+created 2019-12-04, last commit 2024-05-24, main language Go  
 <sub><sup>fullnode, golang, iota</sup></sub>
 
 
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  

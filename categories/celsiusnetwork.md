@@ -1,4 +1,4 @@
-# Crazy Awesome Crypto
+# Awesome Crypto
 A list of 1 [CelsiusNetwork](https://github.com/CelsiusNetwork) project repos ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
@@ -9,12 +9,12 @@ Checkout the interactive version that you can filter and sort:
 Celsius JavaScript SDK provides an easy and secure way to communicate with the Celsius API.  
 [https://developers.celsius.network](https://developers.celsius.network)  
 [https://github.com/CelsiusNetwork/celsius-js-sdk](https://github.com/CelsiusNetwork/celsius-js-sdk)  
-0.09 stars per week over 273 weeks  
-24 stars, 23 forks, 14 watches  
+0.07 stars per week over 358 weeks  
+24 stars, 22 forks, 12 watches  
 created 2018-11-30, last commit 2022-03-10, main language JavaScript  
 <sub><sup>borrowing, celsius, coins, crypto, financial, fintech, interest, javascript, lending, network, nodejs, tokens</sup></sub>
 
 
-This file was automatically generated on 2024-02-23.  
+This file was automatically generated on 2025-10-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
