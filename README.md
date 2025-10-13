@@ -1,6 +1,8 @@
 # Awesome Crypto
 A list of 5326 crypto project repos ordered by stars.  
 
+Updated on 13 October 2025.  
+
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 
