@@ -32,7 +32,7 @@ def _get_coins_list(use_cache=True, filename="_coingecko/coins_list.json"):
     return coins
 
 
-def _save_coin_by_id(coin_id, filename=None, skip_if_exists=True, throttle=6):
+def _save_coin_by_id(coin_id, filename=None, skip_if_exists=True, throttle=10):
     cg = CoinGeckoAPI()
     if filename is None:
         filename = f"_coingecko/id_{coin_id}.json"
@@ -41,7 +41,7 @@ def _save_coin_by_id(coin_id, filename=None, skip_if_exists=True, throttle=6):
         logger.info(f"Skipping crawl of {coin_id}...")
         return
 
-    logger.info(f"Crawling {coin_id}. {throttle=}...")
+    logger.info(f"Crawling {coin_id=}. {throttle=}...")
     if throttle is not None:
         time.sleep(throttle)
 
